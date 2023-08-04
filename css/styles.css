@@ -1,0 +1,16 @@
+.digit {
+    width: 150px;
+    height: 200px;
+    background-size: cover;
+}
+
+.clock {
+    display: flex;
+}
+
+h2 {
+    font-size: 100px;
+    margin-top: 30px;
+    padding-left: 40px;
+}
+
